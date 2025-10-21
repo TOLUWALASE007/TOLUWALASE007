@@ -32,8 +32,6 @@ I’m passionate about building digital experiences that are clean, user-friendl
 
 ## 📊 GitHub Stats  
 
-![Toluwalase's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOLUWALASE007&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TOLUWALASE007&layout=compact&theme=radical)  
 
 ---
