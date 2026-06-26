@@ -2,7 +2,7 @@
 
 ### Software Design Engineer
 
-I build scalable, user-centered web and mobile applications that combine great functionality with exceptional user experiences. With a background in Chemical Engineering and experience in software development, design engineering, and AI design evaluation, I enjoy solving real-world problems through technology and continuous innovation.
+I build scalable, user-centered web and mobile applications that combine great functionality with exceptional user experiences. With a background in Engineering and experience in software development, design engineering, and AI design evaluation, I enjoy solving real-world problems through technology and continuous innovation.
 
 ---
 
