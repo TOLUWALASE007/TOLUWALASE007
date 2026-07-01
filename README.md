@@ -9,7 +9,6 @@ I build scalable, user-centered web and mobile applications that combine great f
 ## 🚀 About Me
 
 - 💻 Software Design Engineer passionate about building impactful digital products
-- 🤖 AI Design Evaluator at Taste AI, helping improve AI-generated designs through detailed feedback
 - 📱 Building modern web and mobile applications
 - 🌱 Always learning, improving, and exploring new technologies
 - ♻️ Creator of PlastiTrack, an award-winning sustainability-focused application
